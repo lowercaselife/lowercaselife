@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Software Engineering at Holberton School
-- 🌱 I'm currently learning MQL4/MQL5, Python, Javascript
+- 🌱 I'm currently working on MQL4/MQL5, Python, Javascript
 - 👯 I’m looking to collaborate on Instagram and Twitter
 - 💬 Ask me about Anything
 - 📫 How to reach me: Instagram @lowercase.life 
