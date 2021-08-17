@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Danson Kalaghe 👋
 
 
 - 🌱 I’m currently learning Software Engineering at Holberton School
