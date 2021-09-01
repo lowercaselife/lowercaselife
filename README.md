@@ -9,7 +9,7 @@
 <a href="https://github.com/lowercaselife" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/lowercaselife" target="_blank">
+<a href="https://twitter.com/lowercase_life" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/danson-kalaghe-399225217" target="_blank">
