@@ -22,9 +22,7 @@
 ### I'm glad to see you here!  
 Software engineering student. I love to explore and learn about new things.
 
-- 🌱 I’m currently learning Python and Javascript.
 - 🔭 I’m currently working on learning full-stack development and building effiecient database models.
-- 😀 I like drawing and reading astronomical studies.
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
