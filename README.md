@@ -20,7 +20,8 @@
 </a>  
   
 ### I'm glad to see you here!  
-Software engineering student. I love to explore and learn about new things.
+Software engineer. I love to explore and learn about new things.
+Backend engineer(preferably) with full-stack knowledge.
 
 - 🔭 I’m currently working on learning full-stack development and building effiecient database models.
 - 💬 Ask me about anything an everything.
