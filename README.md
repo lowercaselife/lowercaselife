@@ -3,7 +3,8 @@
 </p>
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Danson.+Stay+hydrated!)](https://git.io/typing-svg) 
+### Hi there <img src="https://github.com/lowercaselife/lowercaselife/blob/main/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Danson.+Stay+hydrated!)](https://git.io/typing-svg) 
   
 
 <a href="https://github.com/lowercaselife" target="_blank">
