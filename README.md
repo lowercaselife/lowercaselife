@@ -67,16 +67,12 @@ Backend engineer(preferably) with full-stack knowledge.
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## &#x1f4c8; GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowercaselife&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowercaselife&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+<a href="https://github.com/lowercaselife/lowercaselife">
+  <img height="350px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowercaselife&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/lowercaselife/lowercaselife">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lowercaselife&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Danson Kalaghe's GitHub Stats" />
+</a>
 
