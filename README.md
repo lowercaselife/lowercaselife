@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="https://github.com/lowercaselife/lowercaselife/blob/main/1627373595025.jfif" style="max-width:100%;">
-</p>
-<br>
+# Hello, I am Danson
+### I'm glad to see you here!  
+Software engineer. I love to explore and learn about new things.
+Backend engineer(preferably) with full-stack knowledge.
 
-### Hi there <img src="https://github.com/lowercaselife/lowercaselife/blob/main/wave.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Danson.+Stay+hydrated!)](https://git.io/typing-svg) 
-  
+- 🔭 I’m currently working on learning full-stack development and building effiecient database models.
+- 💬 Ask me about anything an everything.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
+<br/>  
+
+## Connect with me
 <a href="https://github.com/lowercaselife" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -20,15 +23,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-### I'm glad to see you here!  
-Software engineer. I love to explore and learn about new things.
-Backend engineer(preferably) with full-stack knowledge.
 
-- 🔭 I’m currently working on learning full-stack development and building effiecient database models.
-- 💬 Ask me about anything an everything.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
-
-<br/>  
 
 
 ## Languages and Tools  
