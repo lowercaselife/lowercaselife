@@ -3,7 +3,7 @@
 Software engineer. I love to explore and learn about new things.
 Backend engineer(preferably) with full-stack knowledge.
 
-- 🔭 I’m currently working on learning full-stack development and building effiecient database models.
+- 🔭 I’m currently learning intergrating TypeScript to Node.js and React.
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
