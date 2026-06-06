@@ -3,8 +3,7 @@
 Software engineer. I love to explore and learn about new things.
 Backend engineer(preferably) with full-stack knowledge.
 
-- 🔭 I’m currently learning Data Engineering.
-- 💬 Ask me about Python.
+- 💬 Ask me about Python and AI.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 <br/>  
