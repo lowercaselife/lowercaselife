@@ -62,12 +62,4 @@ Backend engineer(preferably) with full-stack knowledge.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/lowercaselife/lowercaselife">
-  <img height="350px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowercaselife&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</td></tr></table> 
